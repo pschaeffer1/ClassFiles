@@ -1,0 +1,34 @@
+body {
+    background-color: #880000;
+    margin:0;
+    padding:0;
+    text-align:center
+}
+
+div.container {
+    margin:auto;
+    width:1000px;
+    background-color: #ffa445
+}
+
+div.header,div.footer {
+    background-color: #009999;
+}
+
+h1.header {
+    color: orangered;
+}
+
+div.left {
+    width:300px;
+    text-align: left;
+    float:left;
+    padding: 5px 10px 7px 10px;
+}
+
+div.content {
+    width:680px;
+    text-align:left;
+    margin-left:300px;
+    padding:10px;
+}
